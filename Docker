@@ -1,0 +1,5 @@
+Introduction : 
+one application runs at one server problem , solved by VMWARE (Virtual machines) but vm need separate operating systems, dependies poblem,
+migration is consuming and many other problem. open source problems like cann't setup easily.
+problem solution: Containers (one os with all things)
+
