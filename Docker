@@ -1,5 +1,29 @@
+Blog: https://www.techwithkunal.com/blog/getting-started-with-docker
 Introduction : 
 one application runs at one server problem , solved by VMWARE (Virtual machines) but vm need separate operating systems, dependies poblem,
 migration is consuming and many other problem. open source problems like cann't setup easily.
-problem solution: Containers (one os with all things)
+problem solution: Containers (one os with all things) have container engine.
+DOCKER is a tool to create, manage, etc. containers.
+but in rality containers run on top of virtual machines.
+
+DOCKER RUNTIME: to start and stop things in containers 
+- runc
+- containerd
+
+Docker ENGINE: used to interact with docker
+Docker DAEMON
+Docker CLI
+
+Orchestron engines : allow to manage containers ; more advanced version: Kubernetes
+DOCKER/CONTAINER IMAGE:  file that contains all instructions to run an application.
+
+DOCKER FILE(instuctions) -----> DOCKER IMAGE(class) -----> CONTAINER(object)
+
+##docker is under(check blog) OPEN CONTAINER INITAITIVES(oci)  
+- RUNTINE SPEC
+- IMAGE Specifications
+
+
+https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6           44:47
+
 
