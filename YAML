@@ -1,0 +1,32 @@
+YAML = YAML ain't markup language cz it stores data of object also
+# YAML file
+not a programming language but a data format that is used to exchange the data. similar to xml and json 
+Only data is stored not commands. Storig in file ; called data serializing.
+
+ ### serializing: converting data objects into continous complex stream (chunks of data).
+and there is a concept of deserealization as well.
+data serailization languages: YAML, JSON ,XML
+
+object  to  file = serialization
+file    to  object = deserialozation
+
+Benefits Of YAML file: 
+1. simple and easy to read
+2. Syntax, indentation is important
+3. Easily converted into json , xml
+4. Most languages uses yaml.
+5. More powerful when representing complex data.
+6. Parsers etc. various tools are available.
+7. Parsing(read the data) is easy.
+8. yaml is case sensitive.
+
+Extensions :
+.yaml  (or)
+.yml
+
+types of things to store:
+1. key value pairs
+2. lists
+3. block style 
+--- -block divider
+... -end
