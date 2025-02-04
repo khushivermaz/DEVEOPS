@@ -1,2 +1,40 @@
 AWS:AMAZON WEB SERVICES
 IAM (IDENTITY AND ACCESS MANAGEMENT)
+types of hypervisor :
+1. bare metal
+2. Hosted
+
+# virtualization 
+# cloud computing : pay as you go services 
+
+types of cloud computing:
+1. IaaS 2. PaaS 3.SaaS  (Infrastructure as a service , Platform , Software)
+
+cloud deployment: public cloud, private , hybrid 
+
+features offered by cloud providers: 
+compute services , storage , container etc. see online
+
+ AWS: pay as you go model
+launched in 2006 with basic services of s3 and ec2
+at prsent provides 200 full featured services
+--  speaciality of aws ---> {Scalabiltiy , global reach, realibility and security }
+32 % market share of aws
+23% - microsoft azure
+12% - google
+
+34 launched zones   see online
+104 regions
+
+AWS IAM(Identity access & management): securely access control to aws
+root user : main head that has all the power to control stuff
+iam- free service, global service, 
+Root account created by default , should not be used or shared
+
+IAM services: create user, create group, assign permissions.
+create roles, define policies , manage federated access
+
+AWS IAM MFA(multi factor authentication; extra layer of security ; verifies in 2 or more forms an account)
+username + password + security code 
+
+
